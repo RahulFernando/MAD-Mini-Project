@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">URBAN_CREW</string>
+    <string name="signIn">SIGN IN</string>
+    <string name="signUp">SIGN UP</string>
+    <string name="emailHint">E-Mail</string>
+    <string name="pswHint">Password</string>
+    <string name="login">LOG IN</string>
+    <string name="signup">SIGN UP</string>
+    <string name="start">GET STARTED</string>
 </resources>
